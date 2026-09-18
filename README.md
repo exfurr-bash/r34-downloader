@@ -1,4 +1,4 @@
-# discontinued, im done with this tool
+im back doin this hehe
 # Booru Downloader - CLI e GUI Tool 🚀
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
